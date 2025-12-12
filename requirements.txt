@@ -1,0 +1,8 @@
+numpy
+matplotlib
+seaborn
+plotly
+Pillow
+scikit-learn
+transformers
+tqdm
