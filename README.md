@@ -1,4 +1,6 @@
-# CS-184A-Final-ProjectTo run this project, we used **Google Colab** for the dependencies
+# CS-184A-Final-Project
+
+To run this project, we used **Google Colab** for the dependencies
 1. Connect to the runtime using a GPU (i.e. T4)
 2. On the left sidebar of Colab, click the **Files** icon (folder symbol).
 3. Drag and drop the following folders (unzip them) from the submitted zip into the Colab Files area:
