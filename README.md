@@ -28,8 +28,9 @@ To run this project, we used **Google Colab** for the dependencies
 **Compute Accuracy, Precision, Recall, F1 Score, and Confusion Matrix**: Computed the accuracy, precision, recall, F1 score, and Confusion Matrix of the model's performance
 
 # Additional Information
-- src contains the models for the iypnb files that we worked on
-- small_dataset folder contains only a subset of test data from our dataset
-- training_metrics folder contains the loss/accuracy curves for our "fine-tuned" models
-- train_model.ipynb fine tunes the pretrained models and records both the model as well as the loss/accuracy curves
-- small_dataset_generator.ipynb separates the dataset into a smaller subset for test data
+- **src** contains the models for the iypnb files that we worked on
+- **small_dataset** folder contains only a subset of test data from our dataset
+- **training_metrics** folder contains the loss/accuracy curves for our "fine-tuned" models
+- **train_model.ipynb** fine tunes the pretrained models and records both the model as well as the loss/accuracy curves
+- **small_dataset_generator.ipynb**: separates the dataset into a smaller subset for test data
+- 
