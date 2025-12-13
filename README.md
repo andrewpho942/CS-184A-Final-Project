@@ -3,10 +3,10 @@
 To run thie project.ipynb, we used **Google Colab** for the dependencies
 1. Connect to the runtime using a GPU (i.e. T4)
 2. On the left sidebar of Colab, click the **Files** icon (folder symbol).
-3. Drag and drop the following folders (unzip them) from the submitted zip into the Colab Files area:
-      - The `small_dataset` folder
-      - The `training_metrics` folder
-- Alternatively, you can upload the .zip folders to google colab and run the code snippet to unzip the folders
+3. Upload the .zip folders to Google Colab from the repository folder into the Colab Files area:
+   - The `small_dataset.zip` folder
+   - The `training_metrics.zip` folder
+- Run the code snippet below to unzip the folders
 - If you do **not have** the `small_dataset` folder, then run the small_dataset_generator.ipynb and integrate it into your file structure
 - If you do **not have** the `training_metrics` folder, run the train_model.ipynb and integrate it into the file structure
 4. Once the upload is complete, run the cells below.
