@@ -14,11 +14,17 @@ To run this project, we used **Google Colab** for the dependencies
 
 # Project Blocks (project.ipynb)
 **Import Data**: We imported a subset of the dataset we used (less than 5 MB) 
+
 **Download .pth model from Google Drive**: Uploaded "fine-tuned" pretrained models to the ipynb file from Google Drive
+
 **Data Preprocessing**: We preprocess the test data only, no training/validation data. We left comments of how the training data is supposed to be transformed
+
 **Instantiate Model, Optimizer, and Loss Function**: Initalize the "fine-tuned" Model and made dummy code for optimizer and loss function (for training)
+
 **Plot Loss/Accuracy Curves**: Plotted the recorded loss and accuracy curves reported in training the "fine-tuned" model
+
 **Evaluate Model on Test Data**: Evaluate model based on small test data
+
 **Compute Accuracy, Precision, Recall, F1 Score, and Confusion Matrix**: Computed the accuracy, precision, recall, F1 score, and Confusion Matrix of the model's performance
 
 # Additional Information
